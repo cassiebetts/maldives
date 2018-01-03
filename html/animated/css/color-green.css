@@ -13,7 +13,7 @@ a, a:hover, a:focus, .navbar-default .navbar-nav li .fa-home, #timer div::before
 }
 /* use rgba values here */
 .BGprime.opaque, .square1.opaque, #image-slider a.carousel-control {
-	background-color: rgba(116, 204, 1, 0.7);
+	background-color: rgba(20, 86, 210, 0.5);
 }
 #contact .form-control:focus {
 	border-color: #6c2dc7;
