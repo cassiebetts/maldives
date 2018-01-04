@@ -867,6 +867,11 @@
   var scene = new ScrollMagic.Scene({triggerElement: "#car", duration: greyHgt})
   .setPin("#car") // pins the element for the the scene's duration
   .addTo(controller); // assign the scene to the controller
+	$(window).on('resize', function(){
+		var newTube = $(".tube").outerHeight();
+		scene.duration(newTube-150);
+	})
+
 </script>
 
 </body>
