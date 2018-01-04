@@ -103,8 +103,8 @@
 		  	pagination: false
 	  	});
 
-	  // OWL CAROUSEL: ITINARARY - Layout option 2
-	  $("#itinarary2").owlCarousel({
+	  // OWL CAROUSEL: ITINERARY - Layout option 2
+	  $("#itinerary2").owlCarousel({
       		navigation : true, // Show next and prev buttons
 			navigationText : ["<img class='svg' src='images/svg/arrow-left-s.svg' onerror='this.src='arrow-left-s.png' alt='Prev' />","<img class='svg' src='images/svg/arrow-right-s.svg' onerror='this.src='arrow-right-s.png'' alt='Next' />"],
       		slideSpeed : 300,

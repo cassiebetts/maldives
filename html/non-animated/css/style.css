@@ -8,7 +8,7 @@ Description: A default stylesheet for BestProgrammingBooks.
 - HOME SLIDER
 - HEADER
 - TRAVEL INFO
-- DAY ITINARARY
+- DAY ITINERARY
 - GALLERY
 - LINED UP TOURS
 - TESTIMONIAL
@@ -804,27 +804,27 @@ header .logo a img {
 	fill: #fff;
 }
 /* +=+=+=+=+=+=+=+=+=+=+=+=+=+=+= \
------ DAY ITINARARY 
+----- DAY ITINERARY 
 \ +=+=+=+=+=+=+=+=+=+=+=+=+=+=+= */
-.itinarary {
+.itinerary {
 	position: relative;
 	overflow: hidden;
 	padding-top: 6em;
 	padding-bottom: 6em;
 	margin-top: 6em;
 }
-.opt .itinarary {
+.opt .itinerary {
 	padding-top: 0;
 	margin-top: 0;
 	padding-bottom: 2.65em;
 }
-#itinarary2.dark .day .right.placeInfo h2, #itinarary2.dark .day .left.placeInfo h2, #itinarary2.dark .day .right.placeInfo span, #itinarary2.dark .day .left.placeInfo span, #itinarary2.dark .day .right.placeInfo li h6, #itinarary2.dark .day .left.placeInfo li h6 {
+#itinerary2.dark .day .right.placeInfo h2, #itinerary2.dark .day .left.placeInfo h2, #itinerary2.dark .day .right.placeInfo span, #itinerary2.dark .day .left.placeInfo span, #itinerary2.dark .day .right.placeInfo li h6, #itinerary2.dark .day .left.placeInfo li h6 {
 	color: #fff;
 }
-#itinarary2.dark .day .right.placeInfo p, #itinarary2.dark .day .left.placeInfo p, #itinarary2.dark .day .right.placeInfo li, #itinarary2.dark .day .left.placeInfo li {
+#itinerary2.dark .day .right.placeInfo p, #itinerary2.dark .day .left.placeInfo p, #itinerary2.dark .day .right.placeInfo li, #itinerary2.dark .day .left.placeInfo li {
 	color: rgba(255, 255, 255, 0.7);
 }
-#itinarary2.dark .day .right.placeInfo li, #itinarary2.dark .day .left.placeInfo li {
+#itinerary2.dark .day .right.placeInfo li, #itinerary2.dark .day .left.placeInfo li {
 	border-color: rgba(255, 255, 255, 0.3);
 }
 .day {
@@ -1055,7 +1055,7 @@ header .logo a img {
 	z-index: 999999999;
 	margin-left: -18px;
 }
-#itinarary {
+#itinerary {
 	position: relative;
 }
 /* +=+=+=+=+=+=+=+=+=+=+=+=+=+=+= \
@@ -2026,11 +2026,11 @@ a[href^=tel] {
 #upcoming .item .name h1 {
 	text-transform: capitalize;
 }
-.itinarary {
+.itinerary {
 	padding-top: 0;
 	margin-top: 1.65em;
 }
-#itinarary2 .day .placeInfo {
+#itinerary2 .day .placeInfo {
 	padding: 6em 3em 7em;
 }
 .day .right, .day .left {
@@ -2152,18 +2152,18 @@ header .logo a img {
 	font-size: 1.15em;
 	padding: 1.55em 1.65em 1em;
 }
-.itinarary {
+.itinerary {
 	padding-top: 0;
 	margin-top: 1.35em;
 }
-.opt #itinarary2 .day .placeInfo {
+.opt #itinerary2 .day .placeInfo {
 	padding: 6em 3em 7em;
 }
-.opt #itinarary2 .day .delight {
+.opt #itinerary2 .day .delight {
 	padding: 1em 1.35em;
 	text-align: center;
 }
-.opt #itinarary2 .day .delight i {
+.opt #itinerary2 .day .delight i {
 	position: relative;
 	left: auto;
 	display: inline-block;

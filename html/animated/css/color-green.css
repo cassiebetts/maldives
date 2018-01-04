@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6, h1 small, .navbar-default .navbar-nav li a, #upcoming .i
 	color: #3c4251;
 }
 /* Background Color4 */
-.BGdark, .BGprime .owl-theme .owl-controls .owl-buttons div, .btn-sec:hover, .day .delight, #galleryCarousel .item, #upcoming .item, #travelInfo.BGdark, .btn:hover, #itinarary2.dark .day .right.placeInfo, #itinarary2.dark .day .left.placeInfo {
+.BGdark, .BGprime .owl-theme .owl-controls .owl-buttons div, .btn-sec:hover, .day .delight, #galleryCarousel .item, #upcoming .item, #travelInfo.BGdark, .btn:hover, #itinerary2.dark .day .right.placeInfo, #itinerary2.dark .day .left.placeInfo {
 	background-color: #3c4251;
 }
 /* use rgba values here */
@@ -48,8 +48,8 @@ h1, h2, h3, h4, h5, h6, h1 small, .navbar-default .navbar-nav li a, #upcoming .i
 	color: #878a94;
 }
 /* Background Color4 */
-.BGMdark, .day .placeInfo::before, .day .dayNum, .tube {
-	background-color: #878a94;
+.BGMdark, .day .placeInfo::before, .day .dayNum {
+	background-color: #0887d4;
 }
 /* use rgba values here */
 .BGMdark.opaque {
@@ -62,6 +62,6 @@ h1, h2, h3, h4, h5, h6, h1 small, .navbar-default .navbar-nav li a, #upcoming .i
 .BGlight {
 	background-color: #eff1f6;
 }
-.BGlight.opaque, #itinarary2.light .day .right.placeInfo, #itinarary2.light .day .left.placeInfo {
+.BGlight.opaque, #itinerary2.light .day .right.placeInfo, #itinerary2.light .day .left.placeInfo {
 	background-color: rgba(239, 241, 246, 0.7);
 }
